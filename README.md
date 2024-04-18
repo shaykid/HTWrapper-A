@@ -131,4 +131,11 @@ The JSON configuration file should be set up as follows (example provided):
 ```
 Adjust the JSON file to reflect the actual paths and image URLs as needed for your application.
 
+## php
+For the project described where an HTML page uses JavaScript to load a JSON configuration to dynamically set up an iframe and overlaying GIFs, you might want to use PHP for serving the JSON configuration dynamically or to handle other server-side functionalities. Here’s a simple setup to use PHP in this context:
+
+### File Structure
+- index.php - The main entry point for the HTML content.
+- config.php - Generates and serves the JSON configuration dynamically.
+- .htaccess - (Optional) For URL rewriting, making URLs cleaner if required.
 
