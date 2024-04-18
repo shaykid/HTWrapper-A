@@ -1,0 +1,63 @@
+{
+  "iframe": {
+    "src": "http://www.search.co.il"
+  },
+  "images": [
+    {
+      "src": "initial_image1.gif",
+      "position": { "x": 50, "y": 50 },
+      "events": {
+        "click": "clicked_image1.gif"
+      }
+    },
+    {
+      "src": "initial_image2.gif",
+      "position": { "x": 150, "y": 50 },
+      "events": {
+        "click": "clicked_image2.gif"
+      }
+    },
+    {
+      "src": "initial_image3.gif",
+      "position": { "x": 250, "y": 50 },
+      "events": {
+        "click": "clicked_image3.gif"
+      }
+    },
+    {
+      "src": "initial_image4.gif",
+      "position": { "x": 350, "y": 50 },
+      "events": {
+        "click": "clicked_image4.gif"
+      }
+    },
+    {
+      "src": "initial_image5.gif",
+      "position": { "x": 50, "y": 150 },
+      "events": {
+        "click": "clicked_image5.gif"
+      }
+    },
+    {
+      "src": "initial_image6.gif",
+      "position": { "x": 150, "y": 150 },
+      "events": {
+        "click": "clicked_image6.gif"
+      }
+    },
+    {
+      "src": "initial_image7.gif",
+      "position": { "x": 250, "y": 150 },
+      "events": {
+        "click": "clicked_image7.gif"
+      }
+    },
+    {
+      "src": "initial_image8.gif",
+      "position": { "x": 350, "y": 150 },
+      "events": {
+        "click": "clicked_image8.gif"
+      }
+    }
+  ]
+}
